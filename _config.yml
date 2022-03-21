@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ukraine Spillover Analyses & Data
+title: Analyses & Data on Ukraine's Spillovers
 email: bnotkin@worldbank.org
 description: "A collection of resources on the regional and global effects of Russia's invasion of Ukraine."
 baseurl: "/ukraine-spillover" # the subpath of your site, e.g. /blog
