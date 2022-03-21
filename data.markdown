@@ -39,40 +39,40 @@ permalink: /data/
 
   `DDP*`
 
-- Quadrant provides movement and point of interest data for most countries, with hundreds of millions of unique devices and tens of billions of events per month. 
+- [Quadrant](https://portal.datapartnership.org/datapartner/37) provides movement and point of interest data for most countries, with hundreds of millions of unique devices and tens of billions of events per month. 
 
   `DDP*`
 
-- Outlogic collects an accurate (70% accurate within 20 meters), dense (150+ data pts per daily user, see users on average 15+ days out of the month) data panel that includes mobility metrics (speed, bearing, altitude, vertical accuracy) and other detection capabilities (IoT, Wi-Fi, and Beacon). To understand movement patterns and key venues/points of interest, Outlogic will accept hand-drawn polygons to provide teams with venue foot traffic data. 
+- [Outlogic](https://portal.datapartnership.org/datapartner/32) collects an accurate (70% accurate within 20 meters), dense (150+ data pts per daily user, see users on average 15+ days out of the month) data panel that includes mobility metrics (speed, bearing, altitude, vertical accuracy) and other detection capabilities (IoT, Wi-Fi, and Beacon). To understand movement patterns and key venues/points of interest, Outlogic will accept hand-drawn polygons to provide teams with venue foot traffic data. 
 
   `DDP*`
 
-- Waze provides anonymous, real-time, user-generated incident and slow-down information which includes data about jams, irregularities, and traffic alerts. 
+- [Waze](https://portal.datapartnership.org/datapartner/30) provides anonymous, real-time, user-generated incident and slow-down information which includes data about jams, irregularities, and traffic alerts. 
 
   `DDP*`
 
-- Mapbox traffic data may be helpful to analyze changes in traffic speeds and volumes over time. 
-
+- [Mapbox](https://portal.datapartnership.org/datapartner/18) traffic data may be helpful to analyze changes in traffic speeds and volumes over time. 
+https://portal.datapartnership.org/datapartner/18
   `DDP*`
 
-- Veraset mobility data comprises population location and movement data derived primarily from mobile device GPS, Wi-Fi, and IoT signals. 
+- [Veraset](https://portal.datapartnership.org/datapartner/29) mobility data comprises population location and movement data derived primarily from mobile device GPS, Wi-Fi, and IoT signals. 
 
   `DDP*`
 
 #### 3. Economy, infrastructure and community
-- Facebook’s Social Connectedness Index is a measure of how linked together countries/regions are based on the number of friendship ties on Facebook. Country-level links are measured and made available fully publicly, and more detailed sub-national values may be available upon request. 
+- [Facebook’s](https://portal.datapartnership.org/datapartner/12) Social Connectedness Index is a measure of how linked together countries/regions are based on the number of friendship ties on Facebook. Country-level links are measured and made available fully publicly, and more detailed sub-national values may be available upon request. 
 
   `DDP*`
 
-- Facebook’s Relative Wealth Index provides 2.4km resolution estimates of poverty/wealth distribution for Ukraine (updated 1/22/2022). 
+- [Facebook’s](https://portal.datapartnership.org/datapartner/12) Relative Wealth Index provides 2.4km resolution estimates of poverty/wealth distribution for Ukraine (updated 1/22/2022). 
 
   `DDP*`
 
-- Ookla regularly updates its Internet Speedtest Intelligence data to visualize and analyze internet network performance (download/upload speeds and latency) at various locations.  
+- [Ookla](https://portal.datapartnership.org/datapartner/22) regularly updates its Internet Speedtest Intelligence data to visualize and analyze internet network performance (download/upload speeds and latency) at various locations.  
 
   `DDP*`
 
-- Google Trends API returns normalized Google search volumes by time points. Users can apply a range of query filters for things like time range and geographic region. 
+- [Google Trends API](https://docs.datapartnership.org/login?next=%2Fpartners%2Fgoogle%2Fexamples%2Fgoogle-health-trends-api.html) returns normalized Google search volumes by time points. Users can apply a range of query filters for things like time range and geographic region. 
 
   `DDP*`
 
@@ -136,7 +136,7 @@ permalink: /data/
 
 #### 8. Other
 - The [GDELT](https://www.gdeltproject.org) project hosts real-time news release data through which events can be tracked by location and time for Ukraine and the rest of the world. The data can be accessed using Google [BigQuery](https://www.gdeltproject.org/data.html#googlebigquery) or downloaded directly.
-- Premise’s Ukraine Response team is collecting survey data through a network of local contributors. Premise is looking for organizations' inputs on what data should be gathered.  
+- [Premise’s](https://www.premise.com/blog/building-premises-ukraine-response-with-partner-input/) Ukraine Response team is collecting survey data through a network of local contributors. Premise is looking for organizations' inputs on what data should be gathered.  
 
   `DDP*`
 
