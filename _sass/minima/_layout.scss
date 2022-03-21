@@ -26,7 +26,7 @@
 
 img.site-title {
   height: $spacing-unit;
-  padding-top: $spacing-unit * 1.865/4;
+  padding-top: ($spacing-unit * 1.865 - $spacing-unit)/2;
   padding-right: $spacing-unit/2;
 }
 
