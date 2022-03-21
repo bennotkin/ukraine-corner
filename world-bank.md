@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WBG Related
+title: WBG Activities
 permalink: /world-bank/
 ---
 

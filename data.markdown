@@ -5,23 +5,23 @@ permalink: /data/
 ---
 
 <div markdown="1" class = "toc">
-- [1. Demographics](#1-demographics)
-- [2. Mobility, movement and displacement](#2-mobility-movement-and-displacement)
-- [3. Economy, infrastructure and community](#3-economy-infrastructure-and-community)
-- [4. Food](#4-food)
-- [5. Energy](#5-energy)
-- [6. Conflict](#6-conflict)
-- [7. Satellite imagery and geospatial data](#7-satellite-imagery-and-geospatial-data)
-- [8. Other](#8-other)
+- [Demographics](#demographics)
+- [Mobility, movement and displacement](#mobility-movement-and-displacement)
+- [Economy, infrastructure and community](#economy-infrastructure-and-community)
+- [Food](#food)
+- [Energy](#energy)
+- [Conflict](#conflict)
+- [Satellite imagery and geospatial data](#satellite-imagery-and-geospatial-data)
+- [Other](#other)
 </div>
 
-#### 1. Demographics
+#### Demographics
 - The [Development Data Hub](https://datacatalog.worldbank.org/int/search/collections/ukraine-datasets) team has curated a special collection for Ukraine-related data, including gender statistics, administrative boundaries, population datasets, locations of points of interest, and infrastructure.  
 - UNOCHA hosts multiple [humanitarian response datasets](https://www.humanitarianresponse.info/en/operations/ukraine/hdx-datasets#table/1) with data on attacks, aid operations, health, education, protection, and population statistics. 
 - [WorldPop](https://www.worldpop.org/geodata/summary?id=44372) hosts datasets with a spatial distribution of Population in Ukraine through 2020 
 - The Ukraine Office for National Statistics hosts [Population estimates of 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/14354ct210001) for Ukraine.  
 
-#### 2. Mobility, movement and displacement 
+#### Mobility, movement and displacement 
 
 - UNHCR, [Registration of Internal Displacement](https://app.powerbi.com/view?r=eyJrIjoiY2RhMmExMjgtZWRlMS00YjcwLWI0MzktNmEwNDkwYzdmYTM0IiwidCI6ImU1YzM3OTgxLTY2NjQtNDEzNC04YTBjLTY1NDNkMmFmODBiZSIsImMiOjh9)
   
@@ -59,7 +59,7 @@ https://portal.datapartnership.org/datapartner/18
 
   `DDP*`
 
-#### 3. Economy, infrastructure and community
+#### Economy, infrastructure and community
 - [Facebook’s](https://portal.datapartnership.org/datapartner/12) Social Connectedness Index is a measure of how linked together countries/regions are based on the number of friendship ties on Facebook. Country-level links are measured and made available fully publicly, and more detailed sub-national values may be available upon request. 
 
   `DDP*`
@@ -76,7 +76,7 @@ https://portal.datapartnership.org/datapartner/18
 
   `DDP*`
 
-#### 4. Food
+#### Food
 
 - [FAO Food Price Index](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
 
@@ -88,7 +88,7 @@ https://portal.datapartnership.org/datapartner/18
   
   Measure of monthly change in specific products in 25 countries and 1231 markets. Updated monthly.
 
-#### 5. Energy
+#### Energy
 
 - [Gasoline prices](https://www.globalpetrolprices.com/gasoline_prices/)
 
@@ -97,7 +97,7 @@ https://portal.datapartnership.org/datapartner/18
 - [Diesel prices](https://www.globalpetrolprices.com/diesel_prices/)
 
   Price of diesel in 169 countries. Data is updated weekly or monthly, depending on county.
-#### 6. Conflict
+#### Conflict
 
 - ACLED, [Ukraine-specific data](https://acleddata.com/ukraine-crisis/)
 
@@ -107,7 +107,7 @@ https://portal.datapartnership.org/datapartner/18
   
   Dashboard for political violence and protest events.
 
-#### 7. Satellite imagery and geospatial data
+#### Satellite imagery and geospatial data
 - United States Geological Survey hosts [Landsat satellite imagery](https://earthexplorer.usgs.gov) data that can be used to track changes in land use.  
 
   `Remove?`
@@ -134,7 +134,7 @@ https://portal.datapartnership.org/datapartner/18
 
   `DDP*`
 
-#### 8. Other
+#### Other
 - The [GDELT](https://www.gdeltproject.org) project hosts real-time news release data through which events can be tracked by location and time for Ukraine and the rest of the world. The data can be accessed using Google [BigQuery](https://www.gdeltproject.org/data.html#googlebigquery) or downloaded directly.
 - [Premise’s](https://www.premise.com/blog/building-premises-ukraine-response-with-partner-input/) Ukraine Response team is collecting survey data through a network of local contributors. Premise is looking for organizations' inputs on what data should be gathered.  
 
