@@ -20,7 +20,7 @@
 
 title: Ukraine Spillover Analyses & Data
 email: bnotkin@worldbank.org
-description: >- "A collection of resources on the regional and global effects of Russia's invasion of Ukraine."
+description: "A collection of resources on the regional and global effects of Russia's invasion of Ukraine."
 baseurl: "/ukraine-spillover" # the subpath of your site, e.g. /blog
 url: "https://bennotkin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
