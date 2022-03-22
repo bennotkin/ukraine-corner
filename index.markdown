@@ -16,9 +16,9 @@ title: "Analysis"
   - [South Asia](#south-asia)
 </div>
 
-### Global Overview
+## Global Overview
 
-#### In-depth Analyses
+### In-depth Analyses
 
 - UNCTAD, 16 March 2022, ["The Impact on Trade and Development of the War in Ukraine"](https://unctad.org/system/files/official-document/osginf2022d1_en.pdf)
   
@@ -37,7 +37,7 @@ title: "Analysis"
   > During the first week of March 2022, U.S. wheat futures climbed past their record highs reached in 2008. The strength prevailing in wheat markets, that is also influencing maize quotations, which increased by 44 percent above their year-earlier levels in 2021, received a further boost from production uncertainties in South America, higher input and transport costs, as well as port disruptions. In the rapeseed oil and sunflowerseed oil sectors, annual price increases registered in 2021 were in the order of 65 and 63 percent, respectively, being spurred by protracted global supply tightness and robust demand, and in the case of rapeseed oil also from the biodiesel sector. Currently, sunflower oil is being traded at near-record highs. While sunflowerseed oil is highly substitutable with other vegetable oils, wheat is not. Wheat is a staple food for over 35 percent of the world's population, and the lack of substitutability and dietary diversity will likely compound the pressure on wheat prices.
 
 
-#### High-level Summaries
+### High-level Summaries
 - UNHCR, 18 March 2022, ["Ukraine Situation Flash Update #4"](https://data2.unhcr.org/en/documents/details/91448)
   
   `Displacement` 
@@ -79,10 +79,11 @@ title: "Analysis"
 
   An exploration of 3 energy-focused scenarios of how the war could affect growth, infaltion and monetary policy.
 
-- International Food Policy Research Institute, 24 February 2022, ["How will Russia’s invasion of Ukraine affect global food security? "](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)
+- International Food Policy Research Institute, 24 February 2022, ["How will Russia’s invasion of Ukraine affect global food security?"](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)
 
   `Food`
-### Regional 
+
+## Regional 
 
 - IMF, 15 March 2022, ["How War in Ukraine Is Reverberating Across World’s Regions"](https://blogs.imf.org/2022/03/15/how-war-in-ukraine-is-reverberating-across-worlds-regions/)
   
@@ -94,7 +95,7 @@ title: "Analysis"
 
   A pre-invasion forecast of how the invasion could affect African and Asian states, with special focus on wheat production.
 
-#### Africa
+### Africa
 - Africa Policy Research Institute, ["Tracking what the Russia-Ukraine war means for Africa"](https://afripoli.org/tracking-what-the-russia-ukraine-war-means-for-africa)
 
   A live-updated feed tracking news articles and reports about the implications for Africa of Russia's invasion of Ukraine
@@ -112,7 +113,7 @@ title: "Analysis"
 
   Article differentiating how countries will be affected, with some African states perhaps benefiting in the long term (especially those with extractive natural resources), while most countries are hurt in the short term due to their dependence on products exported by Russia and Ukraine.
 
-#### Central Asia
+### Central Asia
 - Radio Free Europe/Radio Liberty, [_Majlis_](https://www.rferl.org/majlis-talking-asia-podcast/episodes)
 
   `Conflict` `Geopolitics`
@@ -127,7 +128,7 @@ title: "Analysis"
 
 - United States Institute of Peace, 15 March 2022, ["Armenia, Azerbaijan and Georgia’s Balancing Act Over Russia’s War in Ukraine"](https://www.usip.org/publications/2022/03/armenia-azerbaijan-and-georgias-balancing-act-over-russias-war-ukraine)
 
-  `Conflict` `Geopolitics`
+  `Conflict` `Geopolitics` `Remittances`
 
   A brief exploration of the Nagorno–Karabakh conflict between Armenia and Azerbaijan, and Russia's recognition of Abkhazia and South Ossetia in Georgia, and the effects of Russia's invasion on both. See also ["With Friends Like These: How Russia’s Invasion of Ukraine Hurts Central Asia"](https://www.usip.org/publications/2022/02/friends-these-how-russias-invasion-ukraine-hurts-central-asia) (USIP, Feb 28) for commentary on the effects in Central Asia of sanctions on Russia, and on the region's relationship with Russia.
 
@@ -135,7 +136,7 @@ title: "Analysis"
 
   `Food`
 
-#### South Asia
+### South Asia
 - The Diplomat, 16 March 2022, ["Ukraine Crisis and Food Security in South Asia"](https://thediplomat.com/2022/03/ukraine-crisis-and-food-security-in-south-asia/)
 
   `Food`

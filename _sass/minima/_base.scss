@@ -258,12 +258,23 @@ table {
 li {
   p {margin-bottom: $spacing-unit/6;}
 
-  p:not(:first-child), {font-style: italic;}
+  > :not(:first-child), {
+    font-style: italic;
+    // margin-left: $spacing-unit;
+  }
   
   code {font-style: normal;}
 
   margin-bottom: $spacing-unit/2;
 }
+
+// ul {
+//   list-style-type: none;
+//   margin-left: 0
+//   // p:first-child {margin-left: -$spacing-unit}
+//   // li p:first-child {margin-left: 0}
+// }
+
 
 .current {
   border-bottom: 2px solid $brand-color;

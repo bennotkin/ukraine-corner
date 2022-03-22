@@ -15,17 +15,17 @@ permalink: /data/
 - [Other](#other)
 </div>
 
-#### Demographics
+### Demographics
 - The [Development Data Hub](https://datacatalog.worldbank.org/int/search/collections/ukraine-datasets) team has curated a special collection for Ukraine-related data, including gender statistics, administrative boundaries, population datasets, locations of points of interest, and infrastructure.  
 - UNOCHA hosts multiple [humanitarian response datasets](https://www.humanitarianresponse.info/en/operations/ukraine/hdx-datasets#table/1) with data on attacks, aid operations, health, education, protection, and population statistics. 
 - [WorldPop](https://www.worldpop.org/geodata/summary?id=44372) hosts datasets with a spatial distribution of Population in Ukraine through 2020 
 - The Ukraine Office for National Statistics hosts [Population estimates of 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/14354ct210001) for Ukraine.  
 
-#### Mobility, movement and displacement 
+### Mobility, movement and displacement 
 
 - UNHCR, [Registration of Internal Displacement](https://app.powerbi.com/view?r=eyJrIjoiY2RhMmExMjgtZWRlMS00YjcwLWI0MzktNmEwNDkwYzdmYTM0IiwidCI6ImU1YzM3OTgxLTY2NjQtNDEzNC04YTBjLTY1NDNkMmFmODBiZSIsImMiOjh9)
   
-  PowerBI dashboard with Oblast-level data for number of registered internally displaced persons, with categories for pensioners, children, and people with disabilities. Tabular data is not immediately available.
+  PowerBI dashboard with oblast-level data for number of registered internally displaced persons, with categories for pensioners, children, and people with disabilities. Tabular data is not immediately available.
 
 - UNHCR, [Ukraine Refugee Situation](https://data2.unhcr.org/en/situations/ukraine)
 
@@ -59,7 +59,7 @@ https://portal.datapartnership.org/datapartner/18
 
   `DDP*`
 
-#### Economy, infrastructure and community
+### Economy, infrastructure and community
 - [Facebook’s](https://portal.datapartnership.org/datapartner/12) Social Connectedness Index is a measure of how linked together countries/regions are based on the number of friendship ties on Facebook. Country-level links are measured and made available fully publicly, and more detailed sub-national values may be available upon request. 
 
   `DDP*`
@@ -76,7 +76,7 @@ https://portal.datapartnership.org/datapartner/18
 
   `DDP*`
 
-#### Food
+### Food
 
 - [FAO Food Price Index](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
 
@@ -88,7 +88,7 @@ https://portal.datapartnership.org/datapartner/18
   
   Measure of monthly change in specific products in 25 countries and 1231 markets. Updated monthly.
 
-#### Energy
+### Energy
 
 - [Gasoline prices](https://www.globalpetrolprices.com/gasoline_prices/)
 
@@ -97,7 +97,7 @@ https://portal.datapartnership.org/datapartner/18
 - [Diesel prices](https://www.globalpetrolprices.com/diesel_prices/)
 
   Price of diesel in 169 countries. Data is updated weekly or monthly, depending on county.
-#### Conflict
+### Conflict
 
 - ACLED, [Ukraine-specific data](https://acleddata.com/ukraine-crisis/)
 
@@ -107,7 +107,7 @@ https://portal.datapartnership.org/datapartner/18
   
   Dashboard for political violence and protest events.
 
-#### Satellite imagery and geospatial data
+### Satellite imagery and geospatial data
 - United States Geological Survey hosts [Landsat satellite imagery](https://earthexplorer.usgs.gov) data that can be used to track changes in land use.  
 
   `Remove?`
@@ -134,7 +134,7 @@ https://portal.datapartnership.org/datapartner/18
 
   `DDP*`
 
-#### Other
+### Other
 - The [GDELT](https://www.gdeltproject.org) project hosts real-time news release data through which events can be tracked by location and time for Ukraine and the rest of the world. The data can be accessed using Google [BigQuery](https://www.gdeltproject.org/data.html#googlebigquery) or downloaded directly.
 - [Premise’s](https://www.premise.com/blog/building-premises-ukraine-response-with-partner-input/) Ukraine Response team is collecting survey data through a network of local contributors. Premise is looking for organizations' inputs on what data should be gathered.  
 
@@ -143,4 +143,4 @@ https://portal.datapartnership.org/datapartner/18
 
 
 `*DDP` Dataset is provided pro-bono by a Development Data Partnership partner. To use the dataset, please submit a proposal through the Partnership Portal here, unless specified otherwise for each dataset.  
-  
+
