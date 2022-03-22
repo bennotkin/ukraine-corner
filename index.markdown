@@ -3,8 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Analysis"
+title: ""
 ---
+
+This site exists to collect interim analyses and datasets that communicate the spillover effects of the on-going Ukraine crisis. Russia's invasion of Ukraine has been incredibly deadly and destructive, and will likely have long-lasting consequences in Ukraine as well as in Russia. The crisis, though, extends beyond the borders of these warring nations to the many states whose economies and societies are interwoven with Ukraine and Russia. The disruptive violence of the invasion and the consequent sanctions on Russia produce compounding risks in many nations that rely on the countries for food goods (particularly cereals and vegetable oils), energy, COVID-19 vaccines, and remittances – as well as in those countries that are less directly reliant, but which will suffer price shocks in those sectors.
+
+Below are a selection of reports and media that attempt to understanding the far-reaching and interconnected effects of the Ukraine crisis. See the [Data](/Data) tab for relevant datasets. If you have additional materials to include, please share them [here].
 
 <div markdown="1" class="toc">
 - [Global Overview](#global-overview)
@@ -14,6 +18,7 @@ title: "Analysis"
   - [Africa](#africa)
   - [Central Asia](#central-asia)
   - [South Asia](#south-asia)
+  - [Middle East and North Africa](#middle-east-and-north-africa)
 </div>
 
 ## Global Overview
@@ -47,6 +52,10 @@ title: "Analysis"
 - Financial Times, 17 March 2022, ["Will the Ukraine war derail the green energy transition?"](https://www.ft.com/content/93eb06ec-ba6c-4ad2-8fae-5b66235632b2)
 
   `Energy` `Climate`
+
+- Chatham House, 16 March 2022, ["Ukraine crisis could trigger cascading risks globally"](https://www.chathamhouse.org/2022/03/ukraine-crisis-could-trigger-cascading-risks-globally)
+  
+  `Food` `Transport` `Trade` `Health` `Displacement`
 
 - Axios, 14 March 2022, ["The climate spillover of Russia's war"](https://www.axios.com/climate-spillover-russia-ukraine-war-91a11acb-5c23-440a-b011-ce71195af044.html)
 
@@ -142,3 +151,9 @@ title: "Analysis"
   `Food`
 
 - Foreign Policy, 24 February 2022, ["What the Russia-Ukraine Crisis Means for South Asia"](https://foreignpolicy.com/2022/02/24/russia-ukraine-invasion-india-pakistan-south-asia/) (Paywall)
+
+
+### Middle East and North Africa
+- ["Compounded stress: The impact of the war in Ukraine on the Middle East and North Africa."](https://blogs.worldbank.org/arabvoices/compounded-stress-impact-war-ukraine-middle-east-and-north-africa)
+  
+  `Food` `Energy` `Remittances`

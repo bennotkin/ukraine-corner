@@ -20,7 +20,11 @@
 
 title: Ukraine Crisis – Global Concerns
 email: bnotkin@worldbank.org
-description: "A collection of resources on the regional and global effects of Russia's invasion of Ukraine."
+description: >- 
+  This Ukraine crisis resource page is a product of the <a href="https://worldbankgroup.sharepoint.com/sites/wbsites/GCRP/Pages/index.aspx">Global Crisis Risk Platform
+  (GCRP)</a>. The GCRP exists “to enhance the Bank's support to clients facing increasingly complex
+  and interconnected crisis risks and to build capacity for preparedness" (<a href="https://documents1.worldbank.org/curated/en/660951532987362050/pdf/GCRP-Board-Paper-26-June-FINAL-06272018.pdf">GCRP Board
+  Paper, 2018</a>).
 baseurl: "/ukraine-spillover" # the subpath of your site, e.g. /blog
 url: "https://bennotkin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
