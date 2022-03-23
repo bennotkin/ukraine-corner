@@ -22,6 +22,8 @@ permalink: /charts/
     - [Reliance on Russia for *purchased* Covid-19 vaccines, by vote in UN resolution](#reliance-on-russia-for-purchased-covid-19-vaccines-by-vote-in-un-resolution)
     - [Reliance on Russia for *intended* Covid-19 vaccines, by vote in UN resolution](#reliance-on-russia-for-intended-covid-19-vaccines-by-vote-in-un-resolution)
 - [Displacement](#displacement)
+- [Conflict](#conflict)
+    - [Conflict sites](#conflict-sites)
 </div>
 
 ## Agriculture
@@ -78,3 +80,8 @@ Countries where 10+% of imported fossil fuels are from Russia
 ## Displacement
 ![Displacement Map](assets/img/displacement-al-jazeera.png)
 *[Al Jazeera, 22 March 2022](https://www.aljazeera.com/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive)*
+
+## Conflict
+#### Conflict sites
+![Conflict sites](assets/img/nyt-conflicts.png)
+*[New York Times](https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html)*
