@@ -7,12 +7,12 @@ title: "Home"
 ---
 
 <div class="intro" markdown="1">
-This site gathers interim analyses and datasets relating to spillovers from the crisis in Ukraine. Inputs are updated on a regular basis as new insights emerge, and focuses on compound threats related to key sectors including: food security, energy, macro-economic conditions, displacement, health and others.
+This site gathers interim analyses and datasets relating to spillovers from the crisis in Ukraine. Inputs are collated by the Global Crisis Risk Platform on a regular basis as new insights emerge, and focuses on compound threats related to key sectors including: food security, energy, macro-economic conditions, displacement, health and others.
 
-If you have or know of materials that you think should be included, write to Ben Notkin at <a class="u-email" href="mailto:bnotkin@worldbank.org">bnotkin@worldbank.org</a>.
+If you have or know of materials that you think should be included, write to Lindsey Jones at <a class="u-email" href="mailto:ljones12@worldbank.org">ljones12@worldbank.org</a> and Ben Notkin at <a class="u-email" href="mailto:bnotkin@worldbank.org">bnotkin@worldbank.org</a>.
 </div>
 
-<div class="preview-cols">
+<!-- <div class="preview-cols"> -->
 <div class="prev-col" markdown="1">
 ### [Analysis](analysis.md)
 
@@ -227,4 +227,4 @@ https://portal.datapartnership.org/datapartner/18
 </div>
 
 </div>
-</div>
+<!-- </div> -->

@@ -374,28 +374,47 @@ input[type='checkbox'].toggle {
 
 
 
-.preview-cols {
-  margin: 0 calc((70ch - 95vw)/2);
-  width: 95vw;
-  // max-width: 95vw;
-  display: flex;
-  justify-content: space-between;
+// .preview-cols {
+//   margin: 0 calc((70ch - 95vw)/2);
+//   width: 95vw;
+//   // max-width: 95vw;
+//   display: flex;
+//   justify-content: space-between;
 
   
 
-  .prev-col {
-    width: 33.33%;
-    padding: 0 1ch;
+//   .prev-col {
+//     width: 33.33%;
+//     padding: 0 1ch;
 
-    + .prev-col {
-      border-left: 1px solid $grey-color;
-    }
-  }
+//     + .prev-col {
+//       border-left: 1px solid $grey-color;
+//     }
+//   }
 
+// }
+
+.home-container {
+  max-width:95vw;
+  width: 150ch;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(2, auto);
+  column-gap: $spacing-unit;
 }
+
 
 .home-container .intro {
   background-color: cornsilk;
   padding: $spacing-unit;
-  margin-bottom: $spacing-unit
+  margin-bottom: $spacing-unit;
+  grid-column: 2 / 6;
+}
+
+// .preview-co
+
+.prev-col {
+  grid-column: span 2;
+  grid-row: 2/3;
 }

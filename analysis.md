@@ -6,27 +6,17 @@ permalink: /analysis/
 
 <div markdown="1" class="toc">
 - [Global Overview](#global-overview)
-  - [Reports](#reports)
-  - [Media](#media)
+  - [In-depth analyses](#in-depth-analyses)
+  - [High-level summaries](#high-level-summaries)
 - [Regional](#regional)
   - [Africa](#africa)
   - [Central Asia](#central-asia)
-  - [South Asia](#south-asia)
   - [Middle East and North Africa](#middle-east-and-north-africa)
 </div>
 
 ## Global Overview
 
-### Reports
-
-- UNHCR, 18 March 2022, ["Ukraine Situation Flash Update #4"](https://data2.unhcr.org/en/documents/details/91448)
-  
-  `Displacement` 
-
-  Summary of refugee situation in Ukraine and surrounding region as Ukrainians flee to neighboring countries and elsewhere. It primarily recounts the work being done by UNHCR.
-
-  > In three weeks, more than 3.2 million refugees have been forced to flee Ukraine, while an additional 6.5 million people have been displaced internally within the country. Over 12 million people have been affected in the areas hardest hit by the war within Ukraine. Humanitarian needs are increasing exponentially.
-
+### In-depth analyses
 
 - UNCTAD, 16 March 2022, ["The Impact on Trade and Development of the War in Ukraine"](https://unctad.org/system/files/official-document/osginf2022d1_en.pdf)
   
@@ -46,18 +36,14 @@ permalink: /analysis/
   
 
 
-### Media
-- Wall Street Journal, 22 March 2022, ["Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19"](https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514)
+### High-level summaries
+- UNHCR, 18 March 2022, ["Ukraine Situation Flash Update #4"](https://data2.unhcr.org/en/documents/details/91448)
+  
+  `Displacement` 
 
-  `Food` `Energy` `Macroeconomics`
+  Summary of refugee situation in Ukraine and surrounding region as Ukrainians flee to neighboring countries and elsewhere. It primarily recounts the work being done by UNHCR.
 
-  > The Russian attack on Ukraine delivered the biggest disruption to global grain markets since a Soviet crop failure in 1973, according to Goldman Sachs, and it has the potential to deliver the biggest disruption to oil markets since the 1990 Iraqi invasion of Kuwait. The bank is forecasting oil to average $130 a barrel for the rest of the year, nearly double the $71 a barrel average in 2021, when global inflation took off.
-
-- New York Times, 20 March 2022, ["Ukraine War Threatens to Cause a Global Food Crisis"](https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html)
-
-  `Food` 
-
-  An exploration of the networked hunger consequences of constrained cereal and fertilizer production, beyond in just the countries that rely on Ukraine and Russia the most.
+  > In three weeks, more than 3.2 million refugees have been forced to flee Ukraine, while an additional 6.5 million people have been displaced internally within the country. Over 12 million people have been affected in the areas hardest hit by the war within Ukraine. Humanitarian needs are increasing exponentially.
 
 - Financial Times, 17 March 2022, ["Will the Ukraine war derail the green energy transition?"](https://www.ft.com/content/93eb06ec-ba6c-4ad2-8fae-5b66235632b2)
 
@@ -70,25 +56,6 @@ permalink: /analysis/
   `Food` `Transport` `Trade` `Health` `Displacement`
 
   > Experience from previous food price crises indicate even small interruptions to trade can result in runs on the market and rapid price inflation. In the case of this conflict, the trade interruption will be far from small because, between them, Russia and Ukraine export around one-quarter of all traded wheat, more than three-quarters of traded sunflower oil, and one-sixth of traded maize.
-
-- Axios, 14 March 2022, ["The climate spillover of Russia's war"](https://www.axios.com/climate-spillover-russia-ukraine-war-91a11acb-5c23-440a-b011-ce71195af044.html)
-
-  `Energy` `Climate`
-
-  > **2. Oil and gas have fresh political mojo.** The industry and Republicans say high prices and Europe's reliance on Russia make a case for more U.S. leasing and LNG export approvals. … 
-  > **3. Europe is burning more coal right now.** Bloomberg reports that coal use at European power plants earlier this month was up 51% from a year ago amid high natural gas prices and efforts to isolate Vladimir Putin.
-  > **4. Russia is a key supplier of clean energy materials.** Think nickel, copper and other minerals used in EVs and other clean tech.
-
-
-- The Economist, 12 March 2022, ["War in Ukraine will cripple global food markets"](https://www.economist.com/finance-and-economics/2022/03/12/war-in-ukraine-will-cripple-global-food-markets)
-
-  `Food`
-
-  > And after several poor harvests, frantic buying during the pandemic and supply-chain issues since, global stocks are 31% below the five-year average. But this time it is the threat of embargoes from the West that has lit a bonfire—and the flames are higher than even during the Great War. Wheat prices, which were already 49% above their 2017-21 average in mid-February, have risen by another 30% since the invasion of Ukraine started on February 24th.
-
-  > In February, even before the war started, a food-price index compiled by the un Food and Agriculture Organisation had reached an all-time high; the number of people deemed food-insecure, at 800m, was at its highest for a decade. Many more could soon join them. Higher food prices will also stoke inflation, adding to the price pressures generated by dearer energy.
-
-  > The fallout from the war will be felt in three ways: disruption to current grain shipments, low or inaccessible future harvests in Ukraine and Russia, and withered production in other parts of the world.
 
 - FAO, 11 March 2022, ["New Scenarios on Global Food Security based on Russia-Ukraine Conflict"](https://www.fao.org/director-general/news/news-article/en/c/1476480)
   
@@ -133,12 +100,6 @@ permalink: /analysis/
   
   A blogpost with brief regional breakdowns of spillover effects. While the summaries are short, they offer a regional specificity lacking in the longer reports. 
 
-- Foreign Policy, 22 January 2022, ["A Russia-Ukraine War Could Ripple Across Africa and Asia"](https://foreignpolicy.com/2022/01/22/russia-ukraine-war-grain-exports-africa-asia/) (Paywall)
-
-  `Food`
-
-  A pre-invasion forecast of how the invasion could affect African and Asian states, with special focus on wheat production.
-
 ### Africa
 - Africa Policy Research Institute, ["Tracking what the Russia-Ukraine war means for Africa"](https://afripoli.org/tracking-what-the-russia-ukraine-war-means-for-africa)
 
@@ -147,10 +108,6 @@ permalink: /analysis/
 
   `Energy`
 
-- Quartz, 14 March 2022, ["The Russia-Ukraine war threatens Africa’s wheat supply"](https://qz.com/africa/2141561/the-war-in-ukraine-war-threatens-africas-wheat-supply/)
-
-  `Food`
-
 - Brookings, 25 Feb 2022, ["What does the war in Ukraine mean for Africa?"](https://www.brookings.edu/blog/africa-in-focus/2022/02/25/what-does-the-war-in-ukraine-mean-for-africa/) (Paywall)
 
   `Energy` `Macroeconomic`
@@ -158,36 +115,11 @@ permalink: /analysis/
   Article differentiating how countries will be affected, with some African states perhaps benefiting in the long term (especially those with extractive natural resources), while most countries are hurt in the short term due to their dependence on products exported by Russia and Ukraine.
 
 ### Central Asia
-- Radio Free Europe/Radio Liberty, [_Majlis_](https://www.rferl.org/majlis-talking-asia-podcast/episodes)
-
-  `Conflict` `Geopolitics`
-  
-  A podcast discussing political developments and social issues with recent episodes on ["Putin, Ukraine, and why there's uneasiness in Central Asia"](https://www.rferl.org/a/31726315.html) (Feb 27), ["The Central Asian dilemma over Russia's attack on Ukraine"](https://www.rferl.org/a/31738920.html) (Mar 6), ["The Spillover in Central Asia from Russia's Invasion of Ukraine"](https://www.rferl.org/a/31750770.html) (Mar 13) and ["How Russia's invasion of Ukraine is dividing societies in Central Asia"](https://www.rferl.org/a/31761886.html) (Mar 20).
-
-- The Diplomat, 16 March 2022, ["What Does Russia’s Ukraine Invasion Mean for Central Asia?"](https://thediplomat.com/2022/03/what-does-russias-ukraine-invasion-mean-for-central-asia/)
-
-  `Geopolitics`
-
-  A webinar discussing the economic, political and diplomatic consequences in Central Asia.
-
 - United States Institute of Peace, 15 March 2022, ["Armenia, Azerbaijan and Georgia’s Balancing Act Over Russia’s War in Ukraine"](https://www.usip.org/publications/2022/03/armenia-azerbaijan-and-georgias-balancing-act-over-russias-war-ukraine)
 
   `Conflict` `Geopolitics` `Remittances`
 
   A brief exploration of the Nagorno–Karabakh conflict between Armenia and Azerbaijan, and Russia's recognition of Abkhazia and South Ossetia in Georgia, and the effects of Russia's invasion on both. See also ["With Friends Like These: How Russia’s Invasion of Ukraine Hurts Central Asia"](https://www.usip.org/publications/2022/02/friends-these-how-russias-invasion-ukraine-hurts-central-asia) (USIP, Feb 28) for commentary on the effects in Central Asia of sanctions on Russia, and on the region's relationship with Russia.
-
-- Eurasianet, 11 March 2022, ["Central Asia frets as Russia suspends grain, sugar exports"](https://eurasianet.org/central-asia-frets-as-russia-suspends-grain-sugar-exports)
-
-  `Food`
-
-### South Asia
-- The Diplomat, 16 March 2022, ["Ukraine Crisis and Food Security in South Asia"](https://thediplomat.com/2022/03/ukraine-crisis-and-food-security-in-south-asia/)
-
-  `Food`
-
-- Foreign Policy, 24 February 2022, ["What the Russia-Ukraine Crisis Means for South Asia"](https://foreignpolicy.com/2022/02/24/russia-ukraine-invasion-india-pakistan-south-asia/) (Paywall)
-
-
 ### Middle East and North Africa
 - Human Rights Watch, 21 March 2022, ["Russia’s Invasion of Ukraine Exacerbates Hunger in Middle East, North Africa"](https://www.hrw.org/news/2022/03/21/russias-invasion-ukraine-exacerbates-hunger-middle-east-north-africa#)
 
