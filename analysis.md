@@ -45,12 +45,6 @@ permalink: /analysis/
 
   > In three weeks, more than 3.2 million refugees have been forced to flee Ukraine, while an additional 6.5 million people have been displaced internally within the country. Over 12 million people have been affected in the areas hardest hit by the war within Ukraine. Humanitarian needs are increasing exponentially.
 
-- Financial Times, 17 March 2022, ["Will the Ukraine war derail the green energy transition?"](https://www.ft.com/content/93eb06ec-ba6c-4ad2-8fae-5b66235632b2)
-
-  `Energy` `Climate`
-
-  > The war in Ukraine could boost coal demand even further, at least in the short term. That point was acknowledged last week by Germany’s economy minister Robert Habeck, of the country’s Green party, who said Europe may be forced to burn more coal in the face of Russian aggression and spiralling gas prices.
-
 - Chatham House, 16 March 2022, ["Ukraine crisis could trigger cascading risks globally"](https://www.chathamhouse.org/2022/03/ukraine-crisis-could-trigger-cascading-risks-globally)
   
   `Food` `Transport` `Trade` `Health` `Displacement`
@@ -79,15 +73,6 @@ permalink: /analysis/
   
   Forecasts and commentaries from 19 Brookings staff on various aspects of the spillover from Russia's invasion.
 
-- Bloomberg, 24 February 2022, ["How War in Ukraine Threatens the World’s Economic Recovery"](https://www.bloomberg.com/news/features/2022-02-25/war-in-ukraine-how-the-ukraine-russia-conflict-could-impact-the-global-economy)
-  
-  `Energy`
-
-  An exploration of 3 energy-focused scenarios of how the war could affect growth, infaltion and monetary policy.
-
-  ![Bloomberg Energy Scenarios](assets/img/bloomberg-energy-scenarios.png)
-  *[Bloomberg](https://www.bloomberg.com/news/features/2022-02-25/war-in-ukraine-how-the-ukraine-russia-conflict-could-impact-the-global-economy)*
-
 - International Food Policy Research Institute, 24 February 2022, ["How will Russia’s invasion of Ukraine affect global food security?"](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)
 
   `Food`
@@ -104,9 +89,6 @@ permalink: /analysis/
 - Africa Policy Research Institute, ["Tracking what the Russia-Ukraine war means for Africa"](https://afripoli.org/tracking-what-the-russia-ukraine-war-means-for-africa)
 
   A live-updated feed tracking news articles and reports about the implications for Africa of Russia's invasion of Ukraine
-- Foreign Policy, 16 March 22, ["Can African Oil and Gas Replace Russia’s?"](https://foreignpolicy.com/2022/03/16/ukraine-russia-war-africa-oil-lng/) (Paywall)
-
-  `Energy`
 
 - Brookings, 25 Feb 2022, ["What does the war in Ukraine mean for Africa?"](https://www.brookings.edu/blog/africa-in-focus/2022/02/25/what-does-the-war-in-ukraine-mean-for-africa/) (Paywall)
 
