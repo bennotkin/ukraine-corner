@@ -11,13 +11,13 @@
 }
 
 .wrapper {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  // display: flex;
+  // justify-content: space-between;
+  // flex-wrap: wrap;
 }
 
 .site-title-bar {
-  // width: 100%;
+  width: 100%;
   display: flex;
   // justify-content: space-between;
   align-items: center;
@@ -51,7 +51,12 @@ img.site-logo {
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+      display: none
+  }
+
+  .trigger {
+    display: flex;
+    justify-content: space-between;
   }
 
   .menu-icon {
@@ -156,19 +161,25 @@ img.site-logo {
   padding-left: $spacing-unit / 2;
 }
 
+// .footer-col-1 {
+//   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+//   width:         calc(35% - (#{$spacing-unit} / 2));
+// }
+
+
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
-}
+// .footer-col-2 {
+//   width: -webkit-calc(10% - (#{$spacing-unit} / 2));
+//   width:         calc(10% - (#{$spacing-unit} / 2));
+// }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {

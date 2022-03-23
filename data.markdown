@@ -33,6 +33,8 @@ permalink: /data/
 
 - UNOCHA has put together a [Ukraine Data explorer](https://data.humdata.org/visualization/ukraine-humanitarian-operations/) that hosts [border crossing data](https://data.humdata.org/dataset/ukraine-border-crossings) (Direct observation data and anecdotal data) and refugee arrivals from Ukraine by time (collected from UNHCR). 
 
+  ![](assets/img/ukraine-data-explorer.png)
+
 - Border-crossing queues [Google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml) (Ukrainian) (Updated every 5 minutes)
 
 - [Facebook](https://portal.datapartnership.org/datapartner/12) has 'Real-time' mobility datasets Facebook Population Density and Movement Maps available within bordering countries. They are updated every 8 hours and available at various sub-national levels. The datasets have been active throughout the COVID-19 crisis, and they continue to be updated. Direct Relief recently shared how they have used these data to plan supply delivery to Ukrainians entering Poland. 

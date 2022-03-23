@@ -6,19 +6,28 @@ layout: page
 title: ""
 ---
 
-This site exists to collect interim analyses and datasets that communicate the spillover effects of the on-going Ukraine crisis. Russia's invasion of Ukraine has been incredibly deadly and destructive, and will likely have long-lasting consequences in Ukraine as well as in Russia. The crisis, though, extends beyond the borders of these warring nations to the many states whose economies and societies are interwoven with Ukraine and Russia. The disruptive violence of the invasion and the consequent sanctions on Russia produce compounding risks in many nations that rely on the countries for food goods (particularly cereals and vegetable oils), energy, COVID-19 vaccines, and remittances – as well as in those countries that are less directly reliant, but which will suffer price shocks in those sectors.
+![Displacement UNHCR](assets/img/displacement-unhcr.png)
+*Displacement ([UNHCR](https://data2.unhcr.org/en/documents/details/91448))*
 
-Below are a selection of reports and media that attempt to understanding the far-reaching and interconnected effects of the Ukraine crisis. See the [Data](/Data) tab for relevant datasets. If you have additional materials to include, please share them [here].
+<div class="intro" markdown="1">
+The ongoing crisis in Ukraine will have considerable knock-on implications for all countries and across a range of different sectors. This site presents interim analyses and datasets relating to spillovers from the crisis compiled by the [Global Crisis Risk Platform (GCRP)](https://worldbankgroup.sharepoint.com/sites/wbsites/GCRP/Pages/index.aspx). Inputs are updated on a regular basis as new insights emerge, and focuses on compound threats related to key sectors including: food security, energy, macro-economic conditions, displacement, health and others.
+ 
+Below we present a selection of relevant analyses, from both WBG and external sources, examining far-reaching and interconnected effects of the Ukraine crisis. See the [Data]({{ baseurl }}/Data) tab for relevant datasets. If you have additional materials or outputs that you would like to include, please reach out <a class="u-email" href="mailto:bnotkin@worldbank.org">here</a>.
+</div>
+
+# Analysis
+{: .post-title}
 
 <div markdown="1" class="toc">
-- [Global Overview](#global-overview)
-  - [In-depth Analyses](#in-depth-analyses)
-  - [High-level Summaries](#high-level-summaries)
-- [Regional](#regional)
-  - [Africa](#africa)
-  - [Central Asia](#central-asia)
-  - [South Asia](#south-asia)
-  - [Middle East and North Africa](#middle-east-and-north-africa)
+- [Analysis](#analysis)
+  - [Global Overview](#global-overview)
+    - [In-depth Analyses](#in-depth-analyses)
+    - [High-level Summaries](#high-level-summaries)
+  - [Regional](#regional)
+    - [Africa](#africa)
+    - [Central Asia](#central-asia)
+    - [South Asia](#south-asia)
+    - [Middle East and North Africa](#middle-east-and-north-africa)
 </div>
 
 ## Global Overview
@@ -43,39 +52,67 @@ Below are a selection of reports and media that attempt to understanding the far
 
 
 ### High-level Summaries
+- Wall Street Journal, 22 March 2022, ["Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19"](https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514)
+
+  `Food` `Energy` `Macroeconomics`
+
+  > The Russian attack on Ukraine delivered the biggest disruption to global grain markets since a Soviet crop failure in 1973, according to Goldman Sachs, and it has the potential to deliver the biggest disruption to oil markets since the 1990 Iraqi invasion of Kuwait. The bank is forecasting oil to average $130 a barrel for the rest of the year, nearly double the $71 a barrel average in 2021, when global inflation took off.
+
 - UNHCR, 18 March 2022, ["Ukraine Situation Flash Update #4"](https://data2.unhcr.org/en/documents/details/91448)
   
   `Displacement` 
 
   Summary of refugee situation in Ukraine and surrounding region as Ukrainians flee to neighboring countries and elsewhere. It primarily recounts the work being done by UNHCR.
 
+  > In three weeks, more than 3.2 million refugees have been forced to flee Ukraine, while an additional 6.5 million people have been displaced internally within the country. Over 12 million people have been affected in the areas hardest hit by the war within Ukraine. Humanitarian needs are increasing exponentially.
+
 - Financial Times, 17 March 2022, ["Will the Ukraine war derail the green energy transition?"](https://www.ft.com/content/93eb06ec-ba6c-4ad2-8fae-5b66235632b2)
 
   `Energy` `Climate`
+
+  > The war in Ukraine could boost coal demand even further, at least in the short term. That point was acknowledged last week by Germany’s economy minister Robert Habeck, of the country’s Green party, who said Europe may be forced to burn more coal in the face of Russian aggression and spiralling gas prices.
 
 - Chatham House, 16 March 2022, ["Ukraine crisis could trigger cascading risks globally"](https://www.chathamhouse.org/2022/03/ukraine-crisis-could-trigger-cascading-risks-globally)
   
   `Food` `Transport` `Trade` `Health` `Displacement`
 
+  > Experience from previous food price crises indicate even small interruptions to trade can result in runs on the market and rapid price inflation. In the case of this conflict, the trade interruption will be far from small because, between them, Russia and Ukraine export around one-quarter of all traded wheat, more than three-quarters of traded sunflower oil, and one-sixth of traded maize.
+
 - Axios, 14 March 2022, ["The climate spillover of Russia's war"](https://www.axios.com/climate-spillover-russia-ukraine-war-91a11acb-5c23-440a-b011-ce71195af044.html)
 
   `Energy` `Climate`
+
+  > **2. Oil and gas have fresh political mojo.** The industry and Republicans say high prices and Europe's reliance on Russia make a case for more U.S. leasing and LNG export approvals. … 
+  > **3. Europe is burning more coal right now.** Bloomberg reports that coal use at European power plants earlier this month was up 51% from a year ago amid high natural gas prices and efforts to isolate Vladimir Putin.
+  > **4. Russia is a key supplier of clean energy materials.** Think nickel, copper and other minerals used in EVs and other clean tech.
+
 
 - The Economist, 12 March 2022, ["War in Ukraine will cripple global food markets"](https://www.economist.com/finance-and-economics/2022/03/12/war-in-ukraine-will-cripple-global-food-markets)
 
   `Food`
 
+  > And after several poor harvests, frantic buying during the pandemic and supply-chain issues since, global stocks are 31% below the five-year average. But this time it is the threat of embargoes from the West that has lit a bonfire—and the flames are higher than even during the Great War. Wheat prices, which were already 49% above their 2017-21 average in mid-February, have risen by another 30% since the invasion of Ukraine started on February 24th.
+
+  > In February, even before the war started, a food-price index compiled by the un Food and Agriculture Organisation had reached an all-time high; the number of people deemed food-insecure, at 800m, was at its highest for a decade. Many more could soon join them. Higher food prices will also stoke inflation, adding to the price pressures generated by dearer energy.
+
+  > The fallout from the war will be felt in three ways: disruption to current grain shipments, low or inaccessible future harvests in Ukraine and Russia, and withered production in other parts of the world.
+
 - FAO, 11 March 2022, ["New Scenarios on Global Food Security based on Russia-Ukraine Conflict"](https://www.fao.org/director-general/news/news-article/en/c/1476480)
   
-  `Food`
+  `Food` `Transport` `Energy`
 
   Opinion article by FAO Director-General Qu Dongyu.
+
+  > The Ukrainian ports on the Black Sea have shuttered. Even if inland transportation infrastructure remains intact, shipping grain by rail would be impossible because of a lack of an operational railway system. Vessels can still transit through the Turkish Straits, a critical trade juncture through which a large amount of wheat and maize shipments pass. Rising insurance premiums for the Black Sea region would exacerbate the already high costs of shipping, compounding the costs of food imports. And, whether storage and processing facilities would remain intact and staffed is also still unclear.
 
 - World Bank Group, 1 March 2022, [March Trade Watch](https://documents1.worldbank.org/curated/en/723261646946500683/pdf/Trade-Watch-March-2022.pdf) (PDF)
 
   `Food`
   
   Analysis of recent trade developments with an analysis of the potential impact of the conflict on food trade.
+
+  ![](assets/img/wb-net-food-imports.png)
+  *Percentage of net food imports in domestic food supply (total calories) ([WB Trade Watch](https://documents1.worldbank.org/curated/en/723261646946500683/pdf/Trade-Watch-March-2022.pdf))*
 
 
 - Brookings, 25 February 2022, ["Around the halls: Implications of Russia’s invasion of Ukraine"](https://www.brookings.edu/blog/order-from-chaos/2022/02/25/around-the-halls-implications-of-russias-invasion-of-ukraine/)
@@ -88,9 +125,14 @@ Below are a selection of reports and media that attempt to understanding the far
 
   An exploration of 3 energy-focused scenarios of how the war could affect growth, infaltion and monetary policy.
 
+  ![Bloomberg Energy Scenarios](assets/img/bloomberg-energy-scenarios.png)
+  *[Bloomberg](https://www.bloomberg.com/news/features/2022-02-25/war-in-ukraine-how-the-ukraine-russia-conflict-could-impact-the-global-economy)*
+
 - International Food Policy Research Institute, 24 February 2022, ["How will Russia’s invasion of Ukraine affect global food security?"](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)
 
   `Food`
+
+  > Poor harvests in South America, strong global demand, and supply chain issues have reduced grain and oilseed inventories and driven prices to their highest levels since 2011-2013. Vegetable oil prices have also been at record levels, reflecting the short South American soybean crop, reduced palm oil supplies due to harvest problems in Malaysia, and sharply increased use of palm and soybean oil for biodiesel production. Prices of key energy-intensive inputs like fuel, fertilizer and pesticides have also been at near-record levels.
 
 ## Regional 
 
@@ -154,6 +196,18 @@ Below are a selection of reports and media that attempt to understanding the far
 
 
 ### Middle East and North Africa
-- ["Compounded stress: The impact of the war in Ukraine on the Middle East and North Africa."](https://blogs.worldbank.org/arabvoices/compounded-stress-impact-war-ukraine-middle-east-and-north-africa)
+- Human Rights Watch, 21 March 2022, ["Russia’s Invasion of Ukraine Exacerbates Hunger in Middle East, North Africa"](https://www.hrw.org/news/2022/03/21/russias-invasion-ukraine-exacerbates-hunger-middle-east-north-africa#)
+
+  `Food`
+
+- World Bank, 7 March 2022, ["Compounded stress: The impact of the war in Ukraine on the Middle East and North Africa."](https://blogs.worldbank.org/arabvoices/compounded-stress-impact-war-ukraine-middle-east-and-north-africa)
   
   `Food` `Energy` `Remittances`
+
+
+
+
+
+<!-- 
+![Ukraine Map](assets/img/ukraine-map-context.jpg)
+*[Britannica]()* -->

@@ -134,7 +134,9 @@ blockquote {
   padding-left: $spacing-unit / 2;
   // @include relative-font-size(1.125);
   // letter-spacing: -1px;
-  font-style: italic;
+  // font-style: italic;
+  margin-block-start: $spacing-unit/2;
+  margin-block-end: $spacing-unit/2;
   
   > :last-child {
     margin-bottom: 0;
@@ -258,7 +260,7 @@ table {
 li {
   p {margin-bottom: $spacing-unit/6;}
   
-  > :not(:first-child), {
+  > p:not(:first-child), {
     font-style: italic;
     // margin-left: $spacing-unit;
   }
@@ -295,7 +297,7 @@ li {
       
       li {
         margin-left: $spacing-unit/1.5;
-
+        
       }
       
     }
@@ -306,4 +308,31 @@ li {
       color: $brand-color
     }
     
+  }
+  
+  p {
+    img {
+      padding-bottom: $spacing-unit;
+      
+      + em {
+        color: $grey-color;
+        font-size: $small-font-size;
+        float: right;
+        margin-top: -$spacing-unit; // This and the img padding are to create space below the caption; a floating caption doen't take up space
+        
+        a, a:visited {
+          color: $grey-color;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  
+  .intro {
+    @include relative-font-size(1.25);
+    padding-bottom: 2*$spacing-unit;
+  }
+  
+  .wrapper {
+    max-width: 70ch;
   }
