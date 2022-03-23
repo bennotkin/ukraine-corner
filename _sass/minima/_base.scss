@@ -336,3 +336,38 @@ li {
   .wrapper {
     max-width: 70ch;
   }
+
+input[type='checkbox'].toggle {
+  display:none;
+}
+
+.lbl-toggle {
+  display: block;
+  cursor: pointer;
+}
+
+.lbl-toggle h3::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+
+  transition: max-height .25s ease-in-out
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 100vh;
+}
