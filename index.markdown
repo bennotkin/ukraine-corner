@@ -58,6 +58,12 @@ Below we present a selection of relevant analyses, from both WBG and external so
 
   > The Russian attack on Ukraine delivered the biggest disruption to global grain markets since a Soviet crop failure in 1973, according to Goldman Sachs, and it has the potential to deliver the biggest disruption to oil markets since the 1990 Iraqi invasion of Kuwait. The bank is forecasting oil to average $130 a barrel for the rest of the year, nearly double the $71 a barrel average in 2021, when global inflation took off.
 
+- New York Times, 20 March 2022, ["Ukraine War Threatens to Cause a Global Food Crisis"](https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html)
+
+  `Food` 
+
+  An exploration of the networked hunger consequences of constrained cereal and fertilizer production, beyond in just the countries that rely on Ukraine and Russia the most.
+
 - UNHCR, 18 March 2022, ["Ukraine Situation Flash Update #4"](https://data2.unhcr.org/en/documents/details/91448)
   
   `Displacement` 
