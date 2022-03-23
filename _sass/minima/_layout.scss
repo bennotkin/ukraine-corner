@@ -10,14 +10,14 @@
   position: relative;
 }
 
-.wrapper {
-  // display: flex;
-  // justify-content: space-between;
-  // flex-wrap: wrap;
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .site-title-bar {
-  width: 100%;
+  // width: 100%;
   display: flex;
   // justify-content: space-between;
   align-items: center;
@@ -54,10 +54,10 @@ img.site-logo {
       display: none
   }
 
-  .trigger {
-    display: flex;
-    justify-content: space-between;
-  }
+  // .trigger {
+  //   display: flex;
+  //   justify-content: space-evenly;
+  // }
 
   .menu-icon {
     display: none;

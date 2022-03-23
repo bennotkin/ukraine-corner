@@ -275,67 +275,67 @@ li {
   //   margin-left: 0
   //   // p:first-child {margin-left: -$spacing-unit}
   //   // li p:first-child {margin-left: 0}
-  // }
+// }
+
+
+.current {
+  border-bottom: 2px solid $brand-color;
+  // text-decoration: underline;
+}
+
+.page-link:hover {
+  text-decoration: none;
+  border-bottom: 2px solid $brand-color;
+}
+
+.toc {
+  ul {margin-left: 0;}
   
-  
-  .current {
-    border-bottom: 2px solid $brand-color;
-    // text-decoration: underline;
-  }
-  
-  .page-link:hover {
-    text-decoration: none;
-    border-bottom: 2px solid $brand-color;
-  }
-  
-  .toc {
-    ul {margin-left: 0;}
+  li {
+    margin: 0;
+    list-style-type: none;
     
     li {
-      margin: 0;
-      list-style-type: none;
+      margin-left: $spacing-unit/1.5;
       
-      li {
-        margin-left: $spacing-unit/1.5;
-        
-      }
-      
-    }
-    
-    li:before {
-      content: '\2192';
-      margin-right: $spacing-unit/4;
-      color: $brand-color
     }
     
   }
   
-  p {
-    img {
-      padding-bottom: $spacing-unit;
+  li:before {
+    content: '\2192';
+    margin-right: $spacing-unit/4;
+    color: $brand-color
+  }
+  
+}
+
+p {
+  img {
+    padding-bottom: $spacing-unit;
+    
+    + em {
+      color: $grey-color;
+      font-size: $small-font-size;
+      float: right;
+      margin-top: -$spacing-unit; // This and the img padding are to create space below the caption; a floating caption doen't take up space
       
-      + em {
+      a, a:visited {
         color: $grey-color;
-        font-size: $small-font-size;
-        float: right;
-        margin-top: -$spacing-unit; // This and the img padding are to create space below the caption; a floating caption doen't take up space
-        
-        a, a:visited {
-          color: $grey-color;
-          text-decoration: underline;
-        }
+        text-decoration: underline;
       }
     }
   }
-  
-  .intro {
-    @include relative-font-size(1.25);
-    padding-bottom: 2*$spacing-unit;
-  }
-  
-  .wrapper {
-    max-width: 70ch;
-  }
+}
+
+.intro {
+  // @include relative-font-size(1.125);
+  padding-bottom: 2*$spacing-unit;
+}
+
+article.post {
+  max-width: $reading-width;
+}
 
 input[type='checkbox'].toggle {
   display:none;
@@ -349,25 +349,53 @@ input[type='checkbox'].toggle {
 .lbl-toggle h3::before {
   content: ' ';
   display: inline-block;
-
+  
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
   border-left: 5px solid currentColor;
-
+  
   vertical-align: middle;
   margin-right: .7rem;
   transform: translateY(-2px);
-
+  
   transition: transform .2s ease-out;
 }
 
 .collapsible-content {
   max-height: 0px;
   overflow: hidden;
-
+  
   transition: max-height .25s ease-in-out
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
   max-height: 100vh;
+}
+
+
+
+.preview-cols {
+  margin: 0 calc((70ch - 95vw)/2);
+  width: 95vw;
+  // max-width: 95vw;
+  display: flex;
+  justify-content: space-between;
+
+  
+
+  .prev-col {
+    width: 33.33%;
+    padding: 0 1ch;
+
+    + .prev-col {
+      border-left: 1px solid $grey-color;
+    }
+  }
+
+}
+
+.home-container .intro {
+  background-color: cornsilk;
+  padding: $spacing-unit;
+  margin-bottom: $spacing-unit
 }

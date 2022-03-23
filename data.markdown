@@ -4,7 +4,6 @@ title: Data
 permalink: /data/
 ---
 
-
 <div class="intro" markdown="1">
 A selection of datasets and data providers that may be relevant to studying the global effects of the Ukrainian crisis.
 </div>

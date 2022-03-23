@@ -10,7 +10,6 @@ permalink: /charts/
     - [Calorie dependence on Russia and Ukraine](#calorie-dependence-on-russia-and-ukraine)
     - [Reliance on imported foods](#reliance-on-imported-foods)
 - [Fertilizers](#fertilizers)
-    - [Nitrogeneous fertilizer imports](#nitrogeneous-fertilizer-imports)
     - [Potassium fertilizer imports](#potassium-fertilizer-imports)
 - [Fossil Fuels](#fossil-fuels)
     - [Destination of Russian mineral exports](#destination-of-russian-mineral-exports)
@@ -42,13 +41,13 @@ permalink: /charts/
 
 ## Fertilizers
 
-#### Nitrogeneous fertilizer imports
+<!-- #### Nitrogeneous fertilizer imports
 ![Nitrogeneous fertilizer](assets/img/ifpri-nitrogeneous-fertilizer.png)
-*[IFPRI](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)*
+*[IFPRI](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)* -->
 
 #### Potassium fertilizer imports
 ![Potassium fertilizer](assets/img/ifpri-potassium-fertilizer.png)
-*[IFPRI](https://www.ifpri.org/blog/how-will-russias-invasion-ukraine-affect-global-food-security)*
+*[The Economist](https://www.economist.com/finance-and-economics/2022/03/12/war-in-ukraine-will-cripple-global-food-markets)*
 
 ## Fossil Fuels
 
