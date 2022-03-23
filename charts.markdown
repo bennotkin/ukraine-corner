@@ -6,24 +6,11 @@ permalink: /charts/
 
 <div class="toc" markdown="1">
 - [Agriculture](#agriculture)
-    - [Food price inflation, 18 February – 15 March](#food-price-inflation-18-february--15-march)
-    - [Calorie dependence on Russia and Ukraine](#calorie-dependence-on-russia-and-ukraine)
-    - [Reliance on imported foods](#reliance-on-imported-foods)
 - [Fertilizers](#fertilizers)
-    - [Nitrogeneous fertilizer imports](#nitrogeneous-fertilizer-imports)
-    - [Potassium fertilizer imports](#potassium-fertilizer-imports)
 - [Fossil Fuels](#fossil-fuels)
-    - [Destination of Russian mineral exports](#destination-of-russian-mineral-exports)
-    - [FCS countries' reliance on Russia for fossil fuels](#fcs-countries-reliance-on-russia-for-fossil-fuels)
-    - [Reliance on Russia for fossil fuels, by vote in UN resolution](#reliance-on-russia-for-fossil-fuels-by-vote-in-un-resolution)
-    - [Reliance on Russia for fossil fuels, by vote in UN resolution](#reliance-on-russia-for-fossil-fuels-by-vote-in-un-resolution-1)
-    - [Natural gas prices, 2020-2022](#natural-gas-prices-2020-2022)
 - [Vaccines](#vaccines)
-    - [Reliance on Russia for *purchased* Covid-19 vaccines, by vote in UN resolution](#reliance-on-russia-for-purchased-covid-19-vaccines-by-vote-in-un-resolution)
-    - [Reliance on Russia for *intended* Covid-19 vaccines, by vote in UN resolution](#reliance-on-russia-for-intended-covid-19-vaccines-by-vote-in-un-resolution)
 - [Displacement](#displacement)
 - [Conflict](#conflict)
-    - [Conflict sites](#conflict-sites)
 </div>
 
 ## Agriculture
