@@ -9,14 +9,14 @@ title: ""
 <!-- ![Displacement UNHCR](assets/img/displacement-unhcr.png)
 *Displacement ([UNHCR](https://data2.unhcr.org/en/documents/details/91448))* -->
 
-![Displacement Map](assets/img/displacement-al-jazeera.png)
-*[Al Jazeera, 22 March 2022](https://www.aljazeera.com/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive)*
-
 <div class="intro" markdown="1">
 The ongoing crisis in Ukraine will have considerable knock-on implications for all countries and across a range of different sectors. This site presents interim analyses and datasets relating to spillovers from the crisis compiled by the [Global Crisis Risk Platform (GCRP)](https://worldbankgroup.sharepoint.com/sites/wbsites/GCRP/Pages/index.aspx). Inputs are updated on a regular basis as new insights emerge, and focuses on compound threats related to key sectors including: food security, energy, macro-economic conditions, displacement, health and others.
  
 Below we present a selection of relevant analyses, from both WBG and external sources, examining far-reaching and interconnected effects of the Ukraine crisis. See the [Data]({{ baseurl }}/Data) tab for relevant datasets. If you have additional materials or outputs that you would like to include, please reach out <a class="u-email" href="mailto:bnotkin@worldbank.org">here</a>.
 </div>
+
+![Displacement Map](assets/img/displacement-al-jazeera.png)
+*[Al Jazeera, 22 March 2022](https://www.aljazeera.com/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive)*
 
 # Analysis
 {: .post-title}
