@@ -102,6 +102,7 @@ permalink: /analysis/
   `Conflict` `Geopolitics` `Remittances`
 
   A brief exploration of the Nagorno–Karabakh conflict between Armenia and Azerbaijan, and Russia's recognition of Abkhazia and South Ossetia in Georgia, and the effects of Russia's invasion on both. See also ["With Friends Like These: How Russia’s Invasion of Ukraine Hurts Central Asia"](https://www.usip.org/publications/2022/02/friends-these-how-russias-invasion-ukraine-hurts-central-asia) (USIP, Feb 28) for commentary on the effects in Central Asia of sanctions on Russia, and on the region's relationship with Russia.
+  
 ### Middle East and North Africa
 - Human Rights Watch, 21 March 2022, ["Russia’s Invasion of Ukraine Exacerbates Hunger in Middle East, North Africa"](https://www.hrw.org/news/2022/03/21/russias-invasion-ukraine-exacerbates-hunger-middle-east-north-africa#)
 

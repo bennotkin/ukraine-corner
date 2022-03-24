@@ -42,16 +42,14 @@ If you have or know of materials that you think should be included, write to Lin
 <div class="prev-col" markdown="1">
 ### [Charts](charts.markdown)
 
-#### Destination of Russian mineral exports
-![Russian minerals](assets/img/atlas-economic-complexity-russia-petroleum.png)
-*[Atlas of Economic Complexity](https://atlas.cid.harvard.edu/explore?country=186&product=undefined&year=2019&productClass=HS&target=Product&partner=undefined&startYear=undefined)*
+#### Food price inflation, 18 February – 15 March
+![Food prices](assets/img/ppt-food-price.png)
+*Potential food security implications of Russia's invasion of Ukraine ([WB](https://worldbankgroup-my.sharepoint.com/:p:/r/personal/bnotkin_worldbank_org/Documents/Attachments/Food%20security%20implications%20of%20Russia%27s%20invasion%20of%20Ukraine-MvN3.pptx?d=wdfc94fdfbb7f4756937f603ce12ff01d&csf=1&web=1&e=60YlJn))*
 
-#### FCS countries' reliance on Russia for fossil fuels
-![Fossil Fuels, FCS](assets/img/ff-fcs.png)
+#### Calorie dependence on Russia and Ukraine
+![Calories from Russian and Ukrainian Wheat](assets/img/ppt-calories.png)
+*Potential food security implications of Russia's invasion of Ukraine ([WB](https://worldbankgroup-my.sharepoint.com/:p:/r/personal/bnotkin_worldbank_org/Documents/Attachments/Food%20security%20implications%20of%20Russia%27s%20invasion%20of%20Ukraine-MvN3.pptx?d=wdfc94fdfbb7f4756937f603ce12ff01d&csf=1&web=1&e=60YlJn))*
 
-#### Reliance on Russia for fossil fuels, by vote in UN resolution
-Countries where 20+% of imported fossil fuels are from Russia
-![Fossil Fuels, 20%](assets/img/ff-vote-20pct.png)
 
 [See more...](charts.markdown)  
 
